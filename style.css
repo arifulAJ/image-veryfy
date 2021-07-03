@@ -1,0 +1,12 @@
+body {
+    text-transform: capitalize;
+}
+
+.paragraph {
+    background: #4a8ac017;
+    border: 12px solid rgb(130 204 11 / 14%);
+    text-align: center;
+    padding: 4px 34px 45px 74px;
+    margin: 24px 79px 23px 75px;
+    border-radius: 36px;
+}
